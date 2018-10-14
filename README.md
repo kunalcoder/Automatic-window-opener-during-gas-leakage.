@@ -1,1 +1,6 @@
 # Automatic-window-opener-during-gas-leakage.
+
+Idea : Gas leakage in the house and causing fire hazard is a common mishap. Many of the time it results in hazard due to negligence or improper maintenence or sometimes unaware of the fact that there is a gas leakage. However, if we can build a solution which can atleast allow the gas to escape in open air so that it doesn't result in fire,than it would be great. Being automated solution requires no manual dependency thus making it effective one. 
+
+
+Solution : Thus, we can build a device which can sense the smell of LPG (consist of butane and propene along with ethyl mercaptne which adds pungent smell to it) and can open the window automatically if it is closed,so that gas do not accumulate. Now these automatic window opening along with a alarm to notify about the same can be more effective. So,we can add that too in the device. Also, the alarm or open window with an LED glowing in the device will indicate about the mishap and thus, can create awareness along with mitigation of the fire hazard. Device can consist of simple circuit consist of a sensor and LED light and wires which will be connect to a window to slide it. Overall solution will be cost effective with respect to damage it can lead to. May be one time installment could be more for some people but,overall running cost will be less. 
